@@ -4,7 +4,9 @@ export const demoUsers = [
   { email: 'abhilash.vantaram@infovision.com', name: 'Abhilash', password: 'Aimplify@2026' },
   { email: 'balram.aggarwal@infovision.com', name: 'Balram', password: 'Aimplify@2026' },
   { email: 'dhanuvanth.senthilkumar@infovision.com', name: 'Dhanuvanth', password: 'Aimplify@2026' },
+  { email: 'pratyoosh.patel@infovision.com', name: 'Pratyoosh', password: 'Aimplify@2026' },
   { email: 'renju.devi@infovision.com', name: 'Renju', password: 'Aimplify@2026' },
+  { email: 'swetha.polumahanthi@infovision.com', name: 'Swetha', password: 'Aimplify@2026' },
 ]
 
 export const families: PlatformFamily[] = [
