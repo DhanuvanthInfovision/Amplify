@@ -1,0 +1,2 @@
+# Amplify
+AI Accelerator Project
